@@ -1,11 +1,6 @@
 .data
  
 
-
-.text
-
-
-
 .globl main
 
 
@@ -17,9 +12,6 @@ sub:
 
 
 mutl:
-
-
-div:
 
 
 error:
